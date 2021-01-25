@@ -1,0 +1,1 @@
+ARTIFACTORY_USERNAME=jfrog.ticket ARTIFACTORY_TOKEN=  mvn clean deploy
